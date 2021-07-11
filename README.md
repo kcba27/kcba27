@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kcba27
 - 👀 I’m interested in Data Analytics / Business Analytics
 - 🌱 I’m currently learning Deep Learning using Re-Inforcement Learning
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m looking to collaborate on Machine Learning, Natural Language Processing, Deep Learning projects
 - 📫 How to reach me Mobile - +61434322227, Email- karthik.27@outlook.com
 
 <!---
